@@ -1,1 +1,4 @@
 Flask
+uwsgi
+flask-swagger
+flask-restful
